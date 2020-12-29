@@ -10,9 +10,9 @@ using spread operator in performing the similar kind of activities, and more fea
 a fantasizing library for javascript programmers.
 
 Snaps below: 
-<img src = "  " />
-<img src = "  " />
-<img src = "  " />
+<img src = "https://github.com/Zubair-droid/react-keeper/blob/main/keeper-snaps/0.PNG " />
+<img src = "https://github.com/Zubair-droid/react-keeper/blob/main/keeper-snaps/1.PNG " />
+<img src = "https://github.com/Zubair-droid/react-keeper/blob/main/keeper-snaps/2.PNG " />
 
 
 
