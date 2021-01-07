@@ -2,7 +2,7 @@
 A google keep clone web app for making notes to keep.
 
 # Overview 
-A Dynamically stored notes with a single title and precise line of words for the context to remember about.
+Functions as notes to store activities and important dates with a single title and precise line of words for the context as a  reminder.
 
 # Implementation
 *Built with the massive help of react.js features like react components, mapping the data to the placeholders, 
