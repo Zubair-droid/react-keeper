@@ -1,5 +1,5 @@
 # React-keeper
-A google keep clone web app for making notes to keep.
+A notes maker web application for making notes and insights then and there.
 
 # Overview 
 Functions as notes to store activities and important dates with a single title and precise line of words for the context as a  reminder.
